@@ -2,7 +2,7 @@
 
 Website of a task organizer (to-do list) made with React JS, Tailwind CSS, TypeScript, Redux Toolkit and more.
 
-![oficial website](https://github.com/iverial/tasks-page/blob/main/public/To-Do%20List%20_%20All%20tasks.png)
+![oficial website](https://github.com/iverial/tasks-ToDo/blob/main/public/tasks-page.png)
 
 ## Description
 
@@ -29,12 +29,12 @@ The project mainly aimed to put into practice knowledge of TypeScript, Tailwind,
 
 ## How to test
 
-You can access the project here: https://tasks-app-aridsm.netlify.app/
+You can access the project here: https://tasks-to-do-nine.vercel.app/
 
 Or run on your machine: 
 
 ``` 
-git clone https://github.com/iverial/tasks-page
+git clone https://github.com/iverial/tasks-ToDo
 cd tasks-app
 npm install
 npm start
